@@ -1,0 +1,50 @@
+.contenedor {
+	border: 2px solid black;
+	width: 450px;
+	height: 450px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+   
+}
+.item1 {
+    width: 150px;
+	height: 150px;
+    background:rgb(24, 221, 123);
+	color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item2 {
+    width: 150px;
+	height: 150px;
+    background: rgb(179, 80, 204);
+	color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.item3 {
+    width: 150px;
+	height: 150px;
+	background:rgb(231, 66, 116);
+	color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item2 {
+	background: rgb(32, 202, 194);
+	color: white;
+	
+}
+.item3 {
+	background:rgb(105, 201, 105);
+    color: white;
+    
+}
+
